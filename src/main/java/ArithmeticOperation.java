@@ -1,3 +1,3 @@
 public interface ArithmeticOperation {
-    float function();
+    float function(float a, float b);
 }
